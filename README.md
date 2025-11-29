@@ -31,3 +31,36 @@ Notes:
   different database, adjust `DBHelper.DB_URL` and the corresponding JDBC driver.
 - Leave the methods unimplemented as your exercise. If you want, I can help
   implement one or two methods and create tests.
+
+Original notes:
+
+// Esto va a ser una AI que organiza mis archivos de forma automatica,
+// estudiando mis compotamientos y patrones de uso.
+
+/* _ Criterios que considera:
+  1. Nombre del archivo.
+  2. Palabras, imagenes o numeros poco comunes,
+  repetidos en varios archivos (los, la , hola, y, titulo y  demas,
+  quedan descartados al ver que estan tambien repetidos en todos los archivos 
+  y no se pueden usar como criterio).
+  3. Fecha de creacion, descarga y ultima modificacion.
+  4. Origen del archivo (pagina web, aplicacion, dispositivo).
+  5. Tipo de archivo (documento, imagen, video, audio, comprimido, ejecutable).
+  6. uso frecuente o reciente del archivo.
+*/
+
+/*Cualidades que debe tener:
+  1. Rapidez: que actue sore la marcha sin esperar, 
+  tomando poco riesgo al principio y aumentando sus apuestas al entender mejor los comportamientos del usuario.
+  2. Autonomo: que no me pregunte por cualquier cambio que haga.
+  3. Personalizacion: que sea al gusto de todo el mundo, pudiendo personalizar el detalle de las categorias, el nivel de autonomia y mas.
+  4. Seguridad y privacidad: de codigo abierto, sin recoleccion de datos en la nube y eliminaion de los metadatos de los archivos vistos o tocados por el programa.
+  5. Reversible: que tenga copias de seguridad y registros de cambios para poder deshacer cualquier cambio realizado.
+ */
+
+/*_ingenieria usada:
+  1. Sistema de puntos con peso de prioridad para cada criterio.
+  2. Memoria de forma local y temporal, con esquemas y nombres "no los archivos completos" para no saturar el sistema.
+  3. Profundidad de ramificacion de categorias personalizable.
+  4. JAVA + SQLite para la base de datos ligera y rapida.
+*/
