@@ -58,6 +58,8 @@ estudiando mis compotamientos y patrones de uso.
 
 # English version:
 
+Warning !: THis was literally traduced from spanish, so some senteces may be hard to understand, sorry I don't want to use AI for this :/
+
 This'll be an AI that organises your Files and Documents automatically, 
 studying your usage paterns and your files dragging.
 
@@ -81,3 +83,5 @@ studying your usage paterns and your files dragging.
     1. Score system, making the files location changing easier to evaluate.
     2. Local and temporal memory storage, using shemas and names "not the actual files" to save storage and time.
     3. JAVA + SQLite for data base, shema and backup storage.
+
+
