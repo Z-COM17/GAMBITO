@@ -58,7 +58,7 @@ estudiando mis compotamientos y patrones de uso.
 
 # English version:
 
-Warning !: THis was literally traduced from spanish, so some senteces may be hard to understand, sorry I don't want to use AI for this :/
+` Warning !: This was literally traduced from spanish, so some senteces may be hard to understand, sorry I don't want to use AI for this :/ `
 
 This'll be an AI that organises your Files and Documents automatically, 
 studying your usage paterns and your files dragging.
