@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="lib2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/java-1.8.0-openjdk-1.8.0.392-1.b08.redhat.windows.x86_64/lib/sa-jdi.jar!/" />
+      <root url="jar://$PROJECT_DIR$/java-1.8.0-openjdk-1.8.0.392-1.b08.redhat.windows.x86_64/lib/jconsole.jar!/" />
+      <root url="jar://$PROJECT_DIR$/java-1.8.0-openjdk-1.8.0.392-1.b08.redhat.windows.x86_64/lib/dt.jar!/" />
+      <root url="jar://$PROJECT_DIR$/java-1.8.0-openjdk-1.8.0.392-1.b08.redhat.windows.x86_64/lib/tools.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

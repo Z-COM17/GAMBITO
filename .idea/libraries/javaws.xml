@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="javaws">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/java-1.8.0-openjdk-1.8.0.392-1.b08.redhat.windows.x86_64/webstart/javaws.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

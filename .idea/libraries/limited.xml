@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="limited">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/java-1.8.0-openjdk-1.8.0.392-1.b08.redhat.windows.x86_64/jre/lib/security/policy/limited/local_policy.jar!/" />
+      <root url="jar://$PROJECT_DIR$/java-1.8.0-openjdk-1.8.0.392-1.b08.redhat.windows.x86_64/jre/lib/security/policy/limited/US_export_policy.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
